@@ -36,7 +36,7 @@ isautogivelist=n
 isautogivefriend=n
 isautogivefamily=n
 minute=1
-minute2=3
+minute2=5
 giveredname=妙用丸,初心丸,五苓散,瓊丹妙露,小活絡藥,小益氣丹,中益氣丹,活絡養生丹,大活絡藥,大益氣丹,金創藥,中活絡藥
 givebluename=行血活氣散,三味甘露丹,小行血藥,中行血藥,大行血藥,小益氣丹,中益氣丹,大益氣丹,越橘藥,活血行氣散
 [BUYPOTION]
@@ -54,7 +54,7 @@ radius=20
 radius2=20
 arrrect=1,2,236,236
 arrrect2=107,107,147,147
-gjmapname=碑林
+gjmapname=天音谷
 gjmapname2=
 gjmaptype=other
 gjmaptype2=other
@@ -3889,7 +3889,7 @@ attributecl=1
 24013,1,2
 24014,1,2
 24015,1,2
-24016,3,2
+24016,1,2
 24017,1,2
 24018,1,2
 24019,1,2
@@ -4002,7 +4002,7 @@ attributecl=1
 24126,3,2
 24127,3,2
 24128,3,2
-24129,1,2
+24129,1,4
 24130,1,2
 24131,1,2
 24132,1,2
@@ -9664,7 +9664,7 @@ attributecl=1
 31538,1,3
 31539,3,2
 31540,1,3
-31541,1,3
+31541,3,2
 31542,1,3
 31543,3,2
 31544,3,2
@@ -10736,7 +10736,7 @@ attributecl=1
 33455,1,2
 33456,1,2
 33457,1,2
-33458,1,2
+33458,3,2
 33459,1,2
 33460,1,2
 33461,1,2
@@ -12467,9 +12467,11 @@ systemtimer2=27
 systemhf=我要下了,有急事出去.
 systemmode=1
 isautoanswer=n
-autoanswer=
+autoanswer=i-天佑護身符 l
+a-初階
+a-紫瓊
 autotalktype=0
-autotalk=
+autotalk=g-閻王 1
 [TEAM]
 pleaselist=n
 pleaseall=y
