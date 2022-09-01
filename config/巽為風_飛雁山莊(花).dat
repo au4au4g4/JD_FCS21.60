@@ -52,7 +52,7 @@ radius=20
 radius2=20
 arrrect=1,2,236,236
 arrrect2=107,107,147,147
-gjmapname=Â¸¥É¨¦ªF
+gjmapname=¥Û¸OÀ­
 gjmapname2=
 gjmaptype=other
 gjmaptype2=other
@@ -61,11 +61,11 @@ scrollname=
 usenpcconvey=y
 [HIT]
 firstskill1=¤£¨Ï¥Î
-loopskill1=«ãÀ»
+loopskill1=¸U¼C«ß¥O
 firstskill2=
 loopskill2=
 wjgname=¡´¥Xºl¨ß,¡´¬õÀtã_¤ý,¡´¯Q¸é¤ý,¡¶´Ý¼É¯Q¸é,¡¶ÃT³½¤ý,¡¶¤j¼LÆs,¡¶´Ý¼É¤p¤¡³½
-bdgname=°g­»,¬r®ð
+bdgname=°g­»,¬r®ð,¥È¯]¯ó
 yxgname=
 autoduoptg=n
 duoguaistep1=1
@@ -1632,13 +1632,13 @@ attributecl=1
 21546,3,2
 21547,3,2
 21548,3,2
-21549,1,3
-21550,1,3
-21551,1,3
-21552,1,3
-21553,1,2
-21554,1,2
-21555,1,2
+21549,3,3
+21550,3,1
+21551,3,3
+21552,3,3
+21553,3,2
+21554,3,1
+21555,3,2
 21556,1,2
 21557,1,2
 21558,1,2
@@ -12465,9 +12465,7 @@ systemtimer2=27
 systemhf=§Ú­n¤U¤F,¦³«æ¨Æ¥X¥h.
 systemmode=1
 isautoanswer=n
-autoanswer=t-1¯Å
-u-«½«½ 60 70 18 45 ºñ
-o-Äq¥Û
+autoanswer=
 autotalktype=0
 autotalk=
 [TEAM]
