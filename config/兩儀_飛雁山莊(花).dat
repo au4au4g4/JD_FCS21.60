@@ -52,7 +52,7 @@ radius=20
 radius2=20
 arrrect=1,2,236,236
 arrrect2=107,107,147,147
-gjmapname=地靈宮秘廊
+gjmapname=丹霞嶺
 gjmapname2=
 gjmaptype=other
 gjmaptype2=other
@@ -62,7 +62,7 @@ usenpcconvey=y
 [HIT]
 firstskill1=不使用
 loopskill1=萬劍律令
-firstskill2=
+firstskill2=不使用
 loopskill2=
 wjgname=●出槌兔,●紅龜粿王,●烏賊王,▲殘暴烏賊,▲鯊魚王,▲大嘴鱷,▲殘暴小丑魚
 bdgname=迷香,毒氣,玄珠草
@@ -12465,7 +12465,7 @@ systemtimer2=27
 systemhf=我要下了,有急事出去.
 systemmode=1
 isautoanswer=n
-autoanswer=
+autoanswer=o-氧氣 月
 autotalktype=0
 autotalk=
 [TEAM]

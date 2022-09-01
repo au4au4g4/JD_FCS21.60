@@ -57,9 +57,9 @@ usescroll=n
 scrollname=
 usenpcconvey=n
 [HIT]
-firstskill1=
+firstskill1=不使用
 loopskill1=
-firstskill2=
+firstskill2=不使用
 loopskill2=
 wjgname=
 bdgname=
@@ -12462,9 +12462,7 @@ systemtimer2=
 systemhf=
 systemmode=1
 isautoanswer=n
-autoanswer=t-1級
-u-娃娃 60 70 18 45 綠
-o-礦石
+autoanswer=o-氧氣 月
 autotalktype=0
 autotalk=
 [TEAM]
