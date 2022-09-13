@@ -10735,7 +10735,7 @@ attributecl=1
 33455,1,2
 33456,1,2
 33457,1,2
-33458,3,2
+33458,1,2
 33459,1,2
 33460,1,2
 33461,1,2
@@ -12493,7 +12493,7 @@ heroskillhpvalue=30
 herohit=1
 herosharebag=y
 heroonlyfetch=y
-herolowhp=y
+herolowhp=n
 herolowhpvalue=10
 herokeepfz=90
 herohpleft=50
