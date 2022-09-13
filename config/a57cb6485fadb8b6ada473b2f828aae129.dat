@@ -2,14 +2,14 @@
 givered=y
 giveredrate=70
 giveblue=y
-givebluerate=50
+givebluerate=80
 givespeed=8
 autoeattianyou=n
 autousetianyou=n
 autolydtxz=n
 autoeatqitian=n
 autohuanbaodian=n
-noredgocity=y
+noredgocity=n
 nobluegocity=y
 bagfullgocity=y
 lowbloodgocity=y
@@ -22,7 +22,7 @@ noanqigocity=n
 isrestoreface=n
 otherface=-1
 restoreface=-1
-isusefamily=n
+isusefamily=y
 isfamilyjdn=n
 is8m8kgoly=y
 issavemoney=n
@@ -41,8 +41,9 @@ giveredname=妙用丸,初心丸,五苓散,瓊丹妙露,小活絡藥,小益氣丹,中益氣丹,活絡養生丹,
 givebluename=行血活氣散,三味甘露丹,小行血藥,中行血藥,大行血藥,小益氣丹,中益氣丹,大益氣丹,越橘藥,活血行氣散
 [BUYPOTION]
 24037,不處理
-24002,不處理
-24042,不處理
+24010,賣掉
+24002,賣掉
+24016,賣掉
 [MAP]
 areatype=2
 areatype2=0
@@ -52,7 +53,7 @@ radius=20
 radius2=20
 arrrect=1,2,236,236
 arrrect2=107,107,147,147
-gjmapname=地靈宮秘廊
+gjmapname=楓林火山
 gjmapname2=
 gjmaptype=other
 gjmaptype2=other
@@ -95,7 +96,7 @@ skillxfkw=n
 skillxflw=n
 skilldqzh=n
 skilltslq=n
-skillgslq=n
+skillgslq=y
 skillcslq=y
 skilltlxq=n
 skilljjxq=n
@@ -125,8 +126,8 @@ skilltsjglt=n
 skilltstwlk=n
 skillmtlzht=n
 skillmtlzzy=n
-skillswbslyd=y
-skillswbgswz=y
+skillswbslyd=n
+skillswbgswz=n
 skillzlh=n
 skillsxlh=n
 skillqlsjkb=n
@@ -4000,7 +4001,7 @@ attributecl=1
 24126,3,2
 24127,3,2
 24128,3,2
-24129,1,4
+24129,1,2
 24130,1,2
 24131,1,2
 24132,1,2
@@ -12465,7 +12466,9 @@ systemtimer2=27
 systemhf=我要下了,有急事出去.
 systemmode=1
 isautoanswer=n
-autoanswer=
+autoanswer=a-盒
+t-水晶
+i-天佑護身符 x
 autotalktype=0
 autotalk=
 [TEAM]
