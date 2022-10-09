@@ -49,7 +49,7 @@ radius=20
 radius2=20
 arrrect=107,107,147,147
 arrrect2=107,107,147,147
-gjmapname=
+gjmapname=莫愁谷入口
 gjmapname2=
 gjmaptype=other
 gjmaptype2=other
@@ -58,7 +58,7 @@ scrollname=
 usenpcconvey=n
 [HIT]
 firstskill1=不使用
-loopskill1=
+loopskill1=怒擊,怒擊
 firstskill2=不使用
 loopskill2=
 wjgname=
@@ -12462,7 +12462,7 @@ systemtimer2=
 systemhf=
 systemmode=1
 isautoanswer=n
-autoanswer=o-氧氣 月
+autoanswer=t-
 autotalktype=0
 autotalk=
 [TEAM]
